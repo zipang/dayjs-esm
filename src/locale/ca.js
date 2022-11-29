@@ -1,5 +1,5 @@
 // Catalan [ca]
-import dayjs from 'dayjs'
+import dayjs from '../index.js'
 
 const locale = {
   name: 'ca',

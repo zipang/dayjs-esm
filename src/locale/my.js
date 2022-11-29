@@ -1,5 +1,5 @@
 // Burmese [my]
-import dayjs from 'dayjs'
+import dayjs from '../index.js'
 
 const locale = {
   name: 'my',

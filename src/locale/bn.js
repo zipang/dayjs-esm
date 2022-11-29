@@ -1,5 +1,5 @@
 // Bengali [bn]
-import dayjs from 'dayjs'
+import dayjs from '../index.js'
 
 const symbolMap = {
   1: '১',

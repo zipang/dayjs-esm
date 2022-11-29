@@ -1,5 +1,5 @@
 // Macedonian [mk]
-import dayjs from 'dayjs'
+import dayjs from '../index.js'
 
 const locale = {
   name: 'mk',

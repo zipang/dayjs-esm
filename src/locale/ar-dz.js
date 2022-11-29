@@ -1,5 +1,5 @@
 // Arabic (Algeria) [ar-dz]
-import dayjs from 'dayjs'
+import dayjs from '../index.js'
 
 const locale = {
   name: 'ar-dz',

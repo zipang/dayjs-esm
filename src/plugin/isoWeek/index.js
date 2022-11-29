@@ -1,4 +1,4 @@
-import { D, W, Y } from '../../constant'
+import { D, W, Y } from '../../constant.js'
 
 const isoWeekPrettyUnit = 'isoweek'
 

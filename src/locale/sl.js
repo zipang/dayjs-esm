@@ -1,5 +1,5 @@
 // Slovenian [sl]
-import dayjs from 'dayjs'
+import dayjs from '../index.js'
 
 const locale = {
   name: 'sl',

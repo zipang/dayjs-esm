@@ -1,5 +1,5 @@
 // Irish or Irish Gaelic [ga]
-import dayjs from 'dayjs'
+import dayjs from '../index.js'
 
 const locale = {
   name: 'ga',

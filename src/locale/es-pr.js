@@ -1,5 +1,5 @@
 // Spanish (Puerto Rico) [es-PR]
-import dayjs from 'dayjs'
+import dayjs from '../index.js'
 
 const locale = {
   name: 'es-pr',

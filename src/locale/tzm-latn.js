@@ -1,5 +1,5 @@
 // Central Atlas Tamazight Latin [tzm-latn]
-import dayjs from 'dayjs'
+import dayjs from '../index.js'
 
 const locale = {
   name: 'tzm-latn',

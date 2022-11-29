@@ -1,5 +1,5 @@
 // Norwegian Bokmål [nb]
-import dayjs from 'dayjs'
+import dayjs from '../index.js'
 
 const locale = {
   name: 'nb',

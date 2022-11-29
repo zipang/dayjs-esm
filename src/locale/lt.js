@@ -1,5 +1,5 @@
 // Lithuanian [lt]
-import dayjs from 'dayjs'
+import dayjs from '../index.js'
 
 const monthFormat = 'sausio_vasario_kovo_balandžio_gegužės_birželio_liepos_rugpjūčio_rugsėjo_spalio_lapkričio_gruodžio'.split('_')
 const monthStandalone = 'sausis_vasaris_kovas_balandis_gegužė_birželis_liepa_rugpjūtis_rugsėjis_spalis_lapkritis_gruodis'.split('_')

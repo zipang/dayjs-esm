@@ -1,5 +1,5 @@
 // Tagalog (Philippines) [tl-ph]
-import dayjs from 'dayjs'
+import dayjs from '../index.js'
 
 const locale = {
   name: 'tl-ph',

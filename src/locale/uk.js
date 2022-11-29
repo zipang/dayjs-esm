@@ -1,5 +1,5 @@
 // Ukrainian [uk]
-import dayjs from 'dayjs'
+import dayjs from '../index.js'
 
 const monthFormat = 'січня_лютого_березня_квітня_травня_червня_липня_серпня_вересня_жовтня_листопада_грудня'.split('_')
 const monthStandalone = 'січень_лютий_березень_квітень_травень_червень_липень_серпень_вересень_жовтень_листопад_грудень'.split('_')

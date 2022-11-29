@@ -1,5 +1,5 @@
 // Serbian [sr]
-import dayjs from 'dayjs'
+import dayjs from '../index.js'
 
 const translator = {
   words: {

@@ -1,5 +1,5 @@
 // Faroese [fo]
-import dayjs from 'dayjs'
+import dayjs from '../index.js'
 
 const locale = {
   name: 'fo',

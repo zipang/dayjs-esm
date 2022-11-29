@@ -1,4 +1,4 @@
-import { u } from '../localizedFormat/utils'
+import { u } from '../localizedFormat/utils.js'
 
 const formattingTokens = /(\[[^[]*\])|([-_:/.,()\s]+)|(A|a|YYYY|YY?|MM?M?M?|Do|DD?|hh?|HH?|mm?|ss?|S{1,3}|z|ZZ?)/g
 

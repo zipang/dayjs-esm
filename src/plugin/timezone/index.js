@@ -1,4 +1,4 @@
-import { MIN, MS } from '../../constant'
+import { MIN, MS } from '../../constant.js'
 
 const typeToPos = {
   year: 0,

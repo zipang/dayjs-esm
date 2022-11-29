@@ -1,5 +1,5 @@
 // Basque [eu]
-import dayjs from 'dayjs'
+import dayjs from '../index.js'
 
 const locale = {
   name: 'eu',

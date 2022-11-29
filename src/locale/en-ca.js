@@ -1,5 +1,5 @@
 // English (Canada) [en-ca]
-import dayjs from 'dayjs'
+import dayjs from '../index.js'
 
 const locale = {
   name: 'en-ca',

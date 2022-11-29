@@ -1,6 +1,6 @@
-import * as C from './constant'
-import en from './locale/en'
-import U from './utils'
+import * as C from './constant.js'
+import en from './locale/en.js'
+import U from './utils.js'
 
 let L = 'en' // global locale
 const Ls = {} // global loaded locale

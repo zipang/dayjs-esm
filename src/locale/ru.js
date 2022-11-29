@@ -1,5 +1,5 @@
 // Russian [ru]
-import dayjs from 'dayjs'
+import dayjs from '../index.js'
 
 const monthFormat = 'января_февраля_марта_апреля_мая_июня_июля_августа_сентября_октября_ноября_декабря'.split('_')
 const monthStandalone = 'январь_февраль_март_апрель_май_июнь_июль_август_сентябрь_октябрь_ноябрь_декабрь'.split('_')

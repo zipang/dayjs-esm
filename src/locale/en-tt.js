@@ -1,5 +1,5 @@
 // English (Trinidad & Tobago) [en-tt]
-import dayjs from 'dayjs'
+import dayjs from '../index.js'
 
 const locale = {
   name: 'en-tt',

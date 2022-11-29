@@ -1,4 +1,4 @@
-import { MILLISECONDS_A_MINUTE, MIN } from '../../constant'
+import { MILLISECONDS_A_MINUTE, MIN } from '../../constant.js'
 
 const REGEX_VALID_OFFSET_FORMAT = /[+-]\d\d(?::?\d\d)?/g
 const REGEX_OFFSET_HOURS_MINUTES_FORMAT = /([+-]|\d\d)/g

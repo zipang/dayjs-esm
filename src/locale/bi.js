@@ -1,5 +1,5 @@
 // Bislama [bi]
-import dayjs from 'dayjs'
+import dayjs from '../index.js'
 
 const locale = {
   name: 'bi',

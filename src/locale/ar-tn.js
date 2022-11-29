@@ -1,5 +1,5 @@
 //  Arabic (Tunisia) [ar-tn]
-import dayjs from 'dayjs'
+import dayjs from '../index.js'
 
 const locale = {
   name: 'ar-tn',

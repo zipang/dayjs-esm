@@ -1,5 +1,5 @@
 // Kyrgyz [ky]
-import dayjs from 'dayjs'
+import dayjs from '../index.js'
 
 const locale = {
   name: 'ky',

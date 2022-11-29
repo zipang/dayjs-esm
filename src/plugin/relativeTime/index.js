@@ -1,4 +1,4 @@
-import * as C from '../../constant'
+import * as C from '../../constant.js'
 
 export default (o, c, d) => {
   o = o || {}

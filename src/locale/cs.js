@@ -1,5 +1,5 @@
 // Czech [cs]
-import dayjs from 'dayjs'
+import dayjs from '../index.js'
 
 function plural(n) {
   return (n > 1) && (n < 5) && (~~(n / 10) !== 1) // eslint-disable-line

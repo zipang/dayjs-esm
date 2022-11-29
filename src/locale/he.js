@@ -1,5 +1,5 @@
 // Hebrew [he]
-import dayjs from 'dayjs'
+import dayjs from '../index.js'
 
 const texts = {
   s: 'מספר שניות',

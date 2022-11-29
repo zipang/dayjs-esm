@@ -1,5 +1,5 @@
 // Galician [gl]
-import dayjs from 'dayjs'
+import dayjs from '../index.js'
 
 const locale = {
   name: 'gl',

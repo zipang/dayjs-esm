@@ -1,5 +1,5 @@
 // English (Ireland) [en-ie]
-import dayjs from 'dayjs'
+import dayjs from '../index.js'
 
 const locale = {
   name: 'en-ie',

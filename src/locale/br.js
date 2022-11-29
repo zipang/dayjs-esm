@@ -1,5 +1,5 @@
 // Breton [br]
-import dayjs from 'dayjs'
+import dayjs from '../index.js'
 
 function lastNumber(number) {
   if (number > 9) {
