@@ -1,4 +1,4 @@
-import { PluginFunc, ConfigType } from 'dayjs'
+import { ConfigType, PluginFunc } from '../index.js'
 
 declare interface RelativeTimeThreshold {
   l: string
@@ -12,7 +12,7 @@ declare interface RelativeTimeOptions {
 }
 
 declare const plugin: PluginFunc<RelativeTimeOptions>
-export = plugin
+export default plugin
 
 declare module 'dayjs' {
   interface Dayjs {

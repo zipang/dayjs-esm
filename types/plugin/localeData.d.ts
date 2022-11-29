@@ -1,7 +1,7 @@
-import { PluginFunc } from 'dayjs'
+import { PluginFunc } from '../index.js';
 
 declare const plugin: PluginFunc
-export = plugin
+export default plugin
 
 declare module 'dayjs' {
   type WeekdayNames = [string, string, string, string, string, string, string];

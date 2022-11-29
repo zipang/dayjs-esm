@@ -1,4 +1,4 @@
-import { PluginFunc } from 'dayjs'
+import { PluginFunc } from '../index.js'
 
 declare module 'dayjs' {
   interface ConfigTypeMap {
@@ -8,4 +8,4 @@ declare module 'dayjs' {
 }
 
 declare const plugin: PluginFunc
-export = plugin
+export default plugin

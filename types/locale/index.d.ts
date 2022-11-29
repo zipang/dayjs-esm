@@ -7,5 +7,5 @@ declare module 'dayjs/locale/*' {
 
   const locale: locale.Locale
 
-  export = locale
+  export default locale
 }

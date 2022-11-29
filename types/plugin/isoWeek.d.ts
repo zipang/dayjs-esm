@@ -1,7 +1,7 @@
-import { PluginFunc, OpUnitType, ConfigType } from 'dayjs'
+import { ConfigType, OpUnitType, PluginFunc } from '../index.js';
 
 declare const plugin: PluginFunc
-export = plugin
+export default plugin
 
 type ISOUnitType = OpUnitType | 'isoWeek';
 

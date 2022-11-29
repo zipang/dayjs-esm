@@ -1,7 +1,7 @@
-import { PluginFunc, ConfigType } from 'dayjs'
+import { ConfigType, PluginFunc } from '../index.js'
 
 declare const plugin: PluginFunc
-export = plugin
+export default plugin
 
 declare module 'dayjs' {
   interface Dayjs {
